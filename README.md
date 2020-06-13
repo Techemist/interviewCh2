@@ -1,5 +1,3 @@
-"# interviewCh2" 
-
 To Solve this question first I user Okhttp library to fetch the data.
 then I used Gson to fill the data object with json data. I created separate class based on 
 Json data.
